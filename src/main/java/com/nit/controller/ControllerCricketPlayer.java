@@ -25,8 +25,10 @@ public class ControllerCricketPlayer  implements CommandLineRunner
 		cp.setName("SKY");
 		cp.setAge(35l);
 		cp.setTeam("India");
+		
 		l.add(RoleInfo.BATSMAN.role);
 		cp.setRole(l);
+		
 		cp.setMatchesPlayed(30l);
 		cp.setRunsScored(600l);
 		cp.setWicketsTaken(5l);
