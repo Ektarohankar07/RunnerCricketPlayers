@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RunnerCricketPlayersApplication {
 
 	public static void main(String[] args) {
-               float b=20f;
+            int a=10;
 		SpringApplication.run(RunnerCricketPlayersApplication.class, args);
 	}
 
